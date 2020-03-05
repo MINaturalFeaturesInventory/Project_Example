@@ -1,0 +1,1 @@
+Folder for .txt files that contain input and output for a run of code. Especially good for keeping track of small manual changes made to get a specific figure or output. Include date and possibly time of run for best reference.
