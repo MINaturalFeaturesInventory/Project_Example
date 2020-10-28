@@ -11,14 +11,14 @@ Description of project, funders, and items included in repository
 Project summary
 
 List of filenames associated with project
-* Code1.R
-* Code2.R
-* mydata.csv
-* location.csv
+* [Code1.R](Code1.R)
+* [Code2.R](Code2.R)
+* [mydata.csv](mydata.csv)
+* [location.csv](location.csv)
 
 <hr>
 
-## Code1.R
+## [Code1.R](Code1.R)
 Last name, First YYYY-MM
 
 What does this code do?
@@ -30,7 +30,7 @@ What does the output look like?
 What are the errors or things could be improved in code?
 <hr>
 
-## Code2.R
+## [Code2.R](Code2.R)
 Last name, First YYYY-MM
 
 What does this code do?
@@ -42,7 +42,7 @@ What does the output look like?
 What are the errors or things could be improved in code?
 <hr>
 
-## mydata.csv
+## [mydata.csv](mydata.csv)
 Last name, First YYYY-MM
 
 Explaination of rows: e.g., each row is one human observation of one Poweshiek skipperling butterfly
@@ -57,7 +57,7 @@ Explaination of columns:
 Any other relevant information about data.
 <hr>
 
-## location.csv
+## [location.csv](location.csv)
 Last name, First YYYY-MM
 
 Explaination of rows: e.g., each row is one site/polygon we surveyed for Poweshiek skipperling butterfly
