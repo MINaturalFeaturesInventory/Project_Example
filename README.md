@@ -11,10 +11,10 @@ Description of project, funders, and items included in repository
 Project summary
 
 List of filenames associated with project
-* [Code1.R](Code1.R)
-* [Code2.R](Code2.R)
-* [mydata.csv](mydata.csv)
-* [location.csv](location.csv)
+* [Code1.R](Code1.R) EXAMPLE
+* [Code2.R](Code2.R) EXAMPLE
+* [mydata.csv](mydata.csv) EXAMPLE
+* [location.csv](location.csv) EXAMPLE
 
 <hr>
 
@@ -45,9 +45,9 @@ What are the errors or things could be improved in code?
 ## [mydata.csv](mydata.csv)
 Last name, First YYYY-MM
 
-Explaination of rows: e.g., each row is one human observation of one Poweshiek skipperling butterfly
+Explanation of rows: e.g., each row is one human observation of one Poweshiek skipperling butterfly
 
-Explaination of columns: 
+Explanation of columns: 
    * locationID: code representing locality; can be linked to location.csv/locationID column
    * locality: site name
    * scientificName: genus and specific epiphit of species
@@ -60,9 +60,9 @@ Any other relevant information about data.
 ## [location.csv](location.csv)
 Last name, First YYYY-MM
 
-Explaination of rows: e.g., each row is one site/polygon we surveyed for Poweshiek skipperling butterfly
+Explanation of rows: e.g., each row is one site/polygon we surveyed for Poweshiek skipperling butterfly
 
-Explaination of columns: 
+Explanation of columns: 
    * locationID: code representing locality; can be linked to location.csv/locationID column
    * locality: site name
    * area: size of site
